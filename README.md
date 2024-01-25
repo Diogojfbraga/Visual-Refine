@@ -1,5 +1,8 @@
 # Image Processing Filters with p5.js
 
+![image](https://github.com/Diogojfbraga/Visual-Refine/assets/67931865/0810df23-3a79-42b6-9240-52d136ef7908)
+
+
 This p5.js sketch provides various image processing filters and effects.
 
 ## Implemented Filters
